@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I'm currently transitioning all my stuff from .NET 7 to .NET 8
-- I like the Win32 API!
-- I like Windows Forms!
+- I like Unix!
+- I like object-oriented programming
 <!--
 **trisii/trisii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
